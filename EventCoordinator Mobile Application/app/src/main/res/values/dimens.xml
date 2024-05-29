@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <!-- Other dimension resources -->
+    <dimen name="appbar_padding_top">16dp</dimen>
+    <dimen name="nav_header_padding">16dp</dimen>
+
+</resources>
